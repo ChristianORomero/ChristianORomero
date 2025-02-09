@@ -18,6 +18,7 @@
 - 🔍 **Ciberseguridad** (Análisis de vulnerabilidades, SIEM, Firewall, OSINT)
 - 🌍 **Monitorización de sistemas y redes** (Zabbix + Prometheus + Grafana)
 - 🌍 **Desarrollo de aplicaciones web y diseño** (Frontend: HTML, CSS | Backend: Django | SQLite)
+- 🤖 **Implementación de LLMs locales, configuración y optimización en LMStudio** (DeepSeek R1, Mistral 7B, Llama 3)
 - 📂 **Ofimática y documentación** (LibreOffice, Excel (nivel medio) / Obsidian, CherryTree)
 - 🛠️ **Herramientas de diseño y otras** (Photoshop, InDesign, Illustrator, Blender)
 
@@ -57,7 +58,8 @@
 
 📌 **Offensive Security Certified Professional (OSCP)** *(En proceso - 2024/2025)*
 
-📌 **Idiomas: Español e Inglés** *(En proceso de B1 de Inglés)*
+📌 **Idiomas: Español e Inglés** *(En proceso de B1 de Inglés - 2025)*
+
 ---
 
 ## 📞 Contacto
