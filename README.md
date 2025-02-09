@@ -12,7 +12,7 @@
 - 🛠 **Seguridad Informática y otras herramientas de diagnóstico** (Wireshark, Nmap, netcat, Metasploit, Burp Suite)
 - 📂 **Gestión de Incidencias a usuarios** (Ticketing: ServiceNow)
 - 📊 **Gestión de bases de datos y herramientas de administración** (MySQL, PostgreSQL / phpMyAdmin)
-- 🐍 **Scripting, automatización y optimización de tareas** (Bash, Python, actualmente aprendiendo scripting en PowerShell)
+- 🐍 **Scripting, automatización y optimización de tareas** (Bash, Python, actualmente aprendiendo PowerShell)
 - 🌍 **Monitorización de sistemas y redes** (Zabbix + Prometheus + Grafana)
 - 📡 **Monitorización de logs** (ELK Stack + Wazuh)
 - 🔍 **Ciberseguridad** (Análisis de vulnerabilidades, SIEM, Firewall, OSINT)
