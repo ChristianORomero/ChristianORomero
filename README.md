@@ -66,4 +66,5 @@
 📧 Email: [ojromerochristian@gmail.com](ojromerochristian@gmail.com)  
 🔗 LinkedIn: []()   
 🌐 Portfolio Web: []()
-🛠 Proyectos: []()
+
+🛠 Proyectos: [Repositorio](https://github.com/ChristianORomero?tab=repositories)
