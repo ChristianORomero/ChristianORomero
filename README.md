@@ -29,11 +29,11 @@
   
 🔹 [🔗 Aplicación web similar a Instagram con funcionalidad backend - Python/Django/SQLite/HTML/CSS](https://github.com/ChristianORomero/Red-Social-Aplicaci-n-Web-Django-JavaScript)
 
-🔹 [🔗 Proyecto SIEM, análisis de logs y monitorización - ELK Stack + Wazuh]()
+<!--🔹 [🔗 Proyecto SIEM, análisis de logs y monitorización - ELK Stack + Wazuh]()-->
 
 🔹 [🔗 Análisis de vulnerabilidades de redes internas con Nmap y Wireshark + desarrollo de scripts propios]()
 
-🔹 [🔗 Pentesting en entornos virtuales con Kali Linux y CTFs]()
+🔹 🔗 Pentesting en entornos virtuales con Kali Linux y CTFs
 
 🔹 [🔗 Configuración, hardening de servidores, configuración y mantenimiento - Windows Server / Linux]()
 
