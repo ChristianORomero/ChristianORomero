@@ -8,17 +8,18 @@
 - 🖥️ **Administración y mantenimiento de sistemas** (Windows, Linux - Ubuntu/Debian, Windows Server)
 - 🔧 **Virtualización y Active Directory** (VirtualBox, VMWare)
 - 🌐 **Administración de Redes y Protocolos** (TCP/IP, DNS, DHCP, VPN, VLAN, Routing | Cisco Packet Tracer)
+- 🌐 **Configuración de Equipos de Red** (instalación y gestión de Routers, Switches y Firewalls)
 - 🖥️ **Soporte técnico y resolución de problemas hardware y software**
 - 🛠 **Seguridad Informática y otras herramientas de diagnóstico** (Wireshark, Nmap, netcat, Metasploit, Burp Suite)
 - 📂 **Gestión de Incidencias a usuarios** (Ticketing: ServiceNow)
-- 📊 **Gestión de bases de datos y herramientas de administración** (MySQL, PostgreSQL / phpMyAdmin)
+- 📊 **Gestión de bases de datos y herramientas de administración** (MySQL)
 - 🐍 **Scripting, automatización y optimización de tareas** (Bash, Python, actualmente aprendiendo PowerShell)
-- 🌍 **Monitorización de sistemas y redes** (Zabbix + Prometheus + Grafana)
+
 - 📡 **Monitorización de logs** (ELK Stack + Wazuh)
-- 🔍 **Ciberseguridad** (Análisis de vulnerabilidades, SIEM, Firewall, OSINT)
-- 🌍 **Monitorización de sistemas y redes** (Zabbix + Prometheus + Grafana)
-- 🌍 **Desarrollo de aplicaciones web y diseño** (Frontend: HTML, CSS | Backend: Django | SQLite)
+- 🔍 **Ciberseguridad** (Análisis de vulnerabilidades, IDS/IPS, SIEM, Firewall, Hardening de sistemas)
+- 🌍 **Desarrollo de aplicaciones web y diseño** (Frontend: HTML, CSS | Backend: Django, Javascript | SQLite)
 - 🤖 **Implementación de LLMs locales, configuración y optimización en LMStudio** (DeepSeek R1, Mistral 7B, Llama 3)
+
 - 📂 **Ofimática y documentación** (LibreOffice, Excel (nivel medio) / Obsidian, CherryTree)
 - 🛠️ **Herramientas de diseño y otras** (Photoshop, InDesign, Illustrator, Blender)
 
