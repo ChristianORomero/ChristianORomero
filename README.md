@@ -1,4 +1,4 @@
-# 💻 [Christian Ojeda Romero] - Técnico en Sistemas Informáticos y Redes / Técnico Superior en entornos web y diseño multimedia / Ciberseguridad
+# 💻 [Cristian Ojeda Romero] - Técnico en Sistemas Informáticos y Redes / Técnico Superior en entornos web y diseño multimedia / Ciberseguridad
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
