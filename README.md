@@ -1,4 +1,4 @@
-# 💻 [Cristian Ojeda Romero] - Técnico en Sistemas Informáticos y Redes / Técnico Superior en entornos web y diseño multimedia / Ciberseguridad
+# 💻 [Cristian Ojeda Romero] - Técnico IT | Soporte Técnico | Windows & Linux | Analista SOC (en proceso)
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -25,47 +25,9 @@
 
 ---
 
-## 🖥️ Proyectos
-🔹 [🔗 Desarrollo de scripts de Python y Bash para automatizar tareas y creación de herramientas / port scanner](https://github.com/ChristianORomero/script_python_port_scanner)
-  
-🔹 [🔗 Aplicación web similar a Instagram con funcionalidad backend - Python/Django/SQLite/HTML/CSS](https://github.com/ChristianORomero/Red-Social-Aplicaci-n-Web-Django-JavaScript)
-
-<!--🔹 [🔗 Proyecto SIEM, análisis de logs y monitorización - ELK Stack + Wazuh]()-->
-
-🔹 [🔗 Análisis de vulnerabilidades de redes internas con Nmap y Wireshark + desarrollo de scripts propios]()
-
-🔹 🔗 Pentesting en entornos virtuales con Kali Linux y CTFs
-
-🔹 [🔗 Configuración, hardening de servidores, configuración y mantenimiento - Windows Server / Linux]()
-
-🔹 [🔗 Configuración de herramienta de ticketing - ServiceNow]()
-
-🔹 [🔗 Gestión y administración de Active Directory (usuarios,, permisos, GPOs y acceso remoto)]()
-
----
-
-## 📜 Certificaciones y estudios generales
-📌 **Técnico en Sistemas Informáticos y Redes** *2020*
-
-📌 **Técnico superior en diseño y edición en entornos web y multimedia** *(2022)*
-
-📌 **Programación en Python I /coursera** *(2021)*
-
-📌 **Google IT Support Professional Certificate** *(2022)*
-
-📌 **Automatiza las tareas de ciberseguridad con Python /coursera** *(2023)*
-
-📌 **CompTIA Security+** *(Pendiente de examén - 2024)*
-
-📌 **Offensive Security Certified Professional (OSCP)** *(En proceso - 2024/2025)*
-
-📌 **Idiomas: Español e Inglés** *(En proceso de B1 de Inglés - 2025)*
-
----
-
 ## 📞 Contacto
 📧 Email: [ojromerochristian@gmail.com](ojromerochristian@gmail.com)  
-🔗 LinkedIn: []()   
+🔗 LinkedIn: [](https://www.linkedin.com/in/cristian-ojeda-romero-522b75363/)   
 🌐 Portfolio Web: []()
 
 🛠 Proyectos: [Repositorio](https://github.com/ChristianORomero?tab=repositories)
